@@ -22,7 +22,7 @@ Frameworks: Bootstrap, W3CSS, JQuery, ASP.NET, Android &...
 ```
 <br>
 
-[![Shibu M github stats](https://github-readme-stats.vercel.app/api?username=ShibuMohapatra)](https://github.com/anuraghazra/github-readme-stats)
+[![Shibu M github stats](https://github-readme-stats.vercel.app/api?username=MohapatraShibu)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
