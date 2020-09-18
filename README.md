@@ -34,6 +34,6 @@ Frameworks: Bootstrap, W3CSS, JQuery, ASP.NET, Android &...
  <a href="https://www.instagram.com/m.shibu.29/">
     <img align="left" alt="Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
- <a href="mailto:shibu.mohapatra09@gmail.com">
+ <a href="mailto:mohapatrashibu@gmail.com">
     <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
