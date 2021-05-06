@@ -9,7 +9,7 @@ I also stand for quality.*
 
 <hr>
 
-## Skills <img src="http://yoganetwork.ca/wp-content/uploads/2020/06/developer.gif" height="41px">
+## Skills <img src="https://user-images.githubusercontent.com/44550746/117297913-605c8100-ae94-11eb-930c-7826a7360c00.gif" height="41px">
 
 <img src="https://user-images.githubusercontent.com/69073543/89121983-421abc80-d4e1-11ea-95f5-04d9589e0c24.png" width="315" height="270">
 
