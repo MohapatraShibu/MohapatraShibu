@@ -51,7 +51,7 @@ I stand for quality and also strive for excellence and perfection which gives me
 <a href="https://www.linkedin.com/in/shibu-mohapatra29/">
     <img align="left" alt="LinkedIn" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
- <a href="https://www.hackerrank.com/shibu_mohapatra1">
+ <a href="https:https://www.hackerrank.com/">
     <img align="left" alt="Hacker Rank" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
   </a>
    <a href="https://www.instagram.com/m.shibu.29/">
