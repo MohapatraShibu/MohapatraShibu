@@ -5,7 +5,6 @@
 *I’m an Artificial Intelligence learner with good statistical and data knowledge. 
 I have ability to identify fine points of data in an ocean of information and also able to process new data quickly and communicate it effectively
 I stand for quality and also strive for excellence and perfection which gives me the opportunity to share the things I love and the places I discover.*
-
 <hr>
 
 ## Tools and Technical Skiils <img src="https://user-images.githubusercontent.com/44550746/117297913-605c8100-ae94-11eb-930c-7826a7360c00.gif" height="40px">
@@ -31,18 +30,14 @@ I stand for quality and also strive for excellence and perfection which gives me
 ![Shibu M](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=informational)
-
 <hr>
-<br>
 
 ## GitHub Stats <img src="https://www.launchpads.com.au/assets/css/icons/animated/line-chart/animat-linechart-color.gif" height="40px">
 
 ![Shibu M github stats](https://github-readme-stats.vercel.app/api?username=MohapatraShibu&theme=default&show_icons=true)
 
 ![Shibu M github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MohapatraShibu&layout=compact&theme=default)
-
 <hr>
-<br>
 
 ## Get in Touch<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px">
  <a href="https://www.instagram.com/m.shibu.29/">
