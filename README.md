@@ -16,14 +16,15 @@ I stand for quality and also strive for excellence and perfection which gives me
 ![Shibu M](https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/Skill-ML_Algorithms-informational?style=flat&logo=TensorFlow&logoColor=white&color=informational)
-![Shibu M](https://img.shields.io/badge/Skill-Data_Visualization-informational?style=flat&logo=GoogleColab&logoColor=white&color=informational)
+![Shibu M](https://img.shields.io/badge/Skill-Microsoft_Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=informational)
 
+![Shibu M](https://img.shields.io/badge/Skill-Data_Visualization-informational?style=flat&logo=GoogleColab&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/Skill-Data_Cleaning-informational?style=flat&logo=Keras&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=oracle&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/Skill-Data_Manipulation-informational?style=flat&logo=TensorFlow&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/Skill-Deep_Learning-informational?style=flat&logo=TensorFlow&logoColor=white&color=informational)
-![Shibu M](https://img.shields.io/badge/Skill-Statistics-informational?style=flat&logo=Numpy&logoColor=white&color=informational)
 
+![Shibu M](https://img.shields.io/badge/Skill-Statistics-informational?style=flat&logo=Numpy&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=white&color=informational)
 ![Shibu M](https://img.shields.io/badge/Software-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=informational)
