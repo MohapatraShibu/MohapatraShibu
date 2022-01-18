@@ -7,7 +7,7 @@ I have ability to identify fine points of data in an ocean of information and al
 I stand for quality and also strive for excellence and perfection which gives me the opportunity to share the things I love and the places I discover.*
 <hr>
 
-## Tools and Technical Skiils <img src="https://user-images.githubusercontent.com/44550746/117297913-605c8100-ae94-11eb-930c-7826a7360c00.gif" height="40px">
+## Tools and Technical Skills <img src="https://user-images.githubusercontent.com/44550746/117297913-605c8100-ae94-11eb-930c-7826a7360c00.gif" height="40px">
 
 <img src="https://user-images.githubusercontent.com/69073543/89121983-421abc80-d4e1-11ea-95f5-04d9589e0c24.png" width="245" height="200">
 
