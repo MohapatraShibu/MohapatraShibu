@@ -17,22 +17,16 @@ I stand for quality and also strive for excellence and perfection which gives me
 ![ML Algorithms](https://img.shields.io/badge/Skill-ML_Algorithms-informational?style=flat&logo=TensorFlow&logoColor=white&color=informational)
 ![Microsoft Azure](https://img.shields.io/badge/Skill-Microsoft_Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=informational)
 
-![Data Visualization](https://img.shields.io/badge/Skill-Data_Visualization-informational?style=flat&logo=GoogleColab&logoColor=white&color=informational)
-![Data Cleaning](https://img.shields.io/badge/Skill-Data_Cleaning-informational?style=flat&logo=Keras&logoColor=white&color=informational)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=oracle&logoColor=white&color=informational)
 ![Data Manipulation](https://img.shields.io/badge/Skill-Data_Manipulation-informational?style=flat&logo=TensorFlow&logoColor=white&color=informational)
 ![Deep Learning](https://img.shields.io/badge/Skill-Deep_Learning-informational?style=flat&logo=TensorFlow&logoColor=white&color=informational)
+![Computer Vision](https://img.shields.io/badge/Skill-Computer%20Vision-blue)
+![Neural Networks](https://img.shields.io/badge/Skill-Neural%20Networks-blue)
 
 ![Statistics](https://img.shields.io/badge/Skill-Statistics-informational?style=flat&logo=Numpy&logoColor=white&color=informational)
-![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=informational)
-![MacOS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=white&color=informational)
 ![VS Code](https://img.shields.io/badge/Software-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=informational)
-![DotNet](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.NET&logoColor=white&color=informational)
 
-![Unity](https://img.shields.io/badge/Software-Unity-informational?style=flat&logo=Unity&logoColor=white&color=informational)
 ![Jupyter](https://img.shields.io/badge/Software-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=informational)
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=informational)
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=informational)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=informational)
 
 <hr>
