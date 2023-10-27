@@ -2,9 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/69073543/89121725-07178980-d4df-11ea-9fb5-597f3725e5c3.png" width="294" height="185">
 
-*I’m an Artificial Intelligence learner with good statistical and data knowledge. 
-I have ability to identify fine points of data in an ocean of information and also able to process new data quickly and communicate it effectively
-I stand for quality and also strive for excellence and perfection which gives me the opportunity to share the things I love and the places I discover.*
+*Proficient in Artificial Intelligence, Bot Development and RPA with hands-on experience in Machine Learning, Deep Learning, MLOps, GIT, Automation Anywhere, API Testing, SoapUI and Oracle Fusion Applications (OFA). Domain expertise in Machine Learning, Deep Learning and RPA. I stand for quality and also strive for excellence and perfection which allows me to share the things I love and the places I discover.*
 <hr>
 
 ## Tools and Technical Skills <img src="https://user-images.githubusercontent.com/44550746/117297913-605c8100-ae94-11eb-930c-7826a7360c00.gif" height="40px">
@@ -29,6 +27,8 @@ I stand for quality and also strive for excellence and perfection which gives me
 ![Jupyter](https://img.shields.io/badge/Software-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=informational)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=informational)
 
+
+
 <hr>
 
 ## GitHub Stats <img src="https://www.launchpads.com.au/assets/css/icons/animated/line-chart/animat-linechart-color.gif" height="40px">
@@ -42,12 +42,9 @@ I stand for quality and also strive for excellence and perfection which gives me
  <a href="mailto:mohapatrashibu@gmail.com">
     <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-<a href="https://www.linkedin.com/in/shibu-mohapatra29/">
+<a href="https://www.linkedin.com/in/shibu-mohapatra/">
     <img align="left" alt="LinkedIn" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
- <a href="https:https://www.hackerrank.com/">
-    <img align="left" alt="Hacker Rank" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
-  </a>
-   <a href="https://www.instagram.com/m.shibu.29/">
-    <img align="left" alt="Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+ <a href="https://www.kaggle.com/shibumohapatra">
+    <img align="left" alt="Hacker Rank" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" />
   </a>
