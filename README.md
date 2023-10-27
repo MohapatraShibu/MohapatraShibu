@@ -38,13 +38,15 @@
 ![Shibu M github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MohapatraShibu&layout=compact&theme=default)
 <hr>
 
-## Get in Touch<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px">
- <a href="mailto:mohapatrashibu@gmail.com">
-    <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+## Get in Touch 🤝
+<a href="mailto:mohapatrashibu@gmail.com">
+    <img align="left" alt="Gmail" width="30px" src="https://github.com/MohapatraShibu/MohapatraShibu/assets/44550746/48d503fe-23d0-4ab4-a0fb-e110fc595f4f" />
   </a>
+
 <a href="https://www.linkedin.com/in/shibu-mohapatra/">
-    <img align="left" alt="LinkedIn" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="LinkedIn" width="60px" src="https://github.com/MohapatraShibu/MohapatraShibu/assets/44550746/eb6350ca-22b5-4f88-b862-e348bf6d69ef" />
   </a>
+ 
  <a href="https://www.kaggle.com/shibumohapatra">
-    <img align="left" alt="Hacker Rank" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" />
+    <img align="left" alt="Kaggle" width="40px" src="https://github.com/MohapatraShibu/MohapatraShibu/assets/44550746/9ebd9397-df7b-43f8-9fa4-3b140d340da3" />
   </a>
