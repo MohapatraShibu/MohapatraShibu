@@ -35,7 +35,7 @@
 
 ![Shibu M github stats](https://github-readme-stats.vercel.app/api?username=MohapatraShibu&theme=default&show_icons=true)
 
-![Shibu M github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MohapatraShibu&layout=compact&theme=default)
+![Shibu M github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MohapatraShibu&layout=donut)
 <hr>
 
 ## Get in Touch 🤝
