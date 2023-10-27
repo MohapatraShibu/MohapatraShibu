@@ -1,11 +1,11 @@
-# Shibu Mohapatra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px">
+# Shibu Mohapatra 👋
 
 <img src="https://user-images.githubusercontent.com/69073543/89121725-07178980-d4df-11ea-9fb5-597f3725e5c3.png" width="294" height="185">
 
 *Proficient in Artificial Intelligence, Bot Development and RPA with hands-on experience in Machine Learning, Deep Learning, MLOps, GIT, Automation Anywhere, API Testing, SoapUI and Oracle Fusion Applications (OFA). Domain expertise in Machine Learning, Deep Learning and RPA. I stand for quality and also strive for excellence and perfection which allows me to share the things I love and the places I discover.*
 <hr>
 
-## Tools and Technical Skills <img src="https://user-images.githubusercontent.com/44550746/117297913-605c8100-ae94-11eb-930c-7826a7360c00.gif" height="40px">
+## Tools and Technical Skills 🧰
 
 <img src="https://user-images.githubusercontent.com/69073543/89121983-421abc80-d4e1-11ea-95f5-04d9589e0c24.png" width="245" height="200">
 
@@ -31,7 +31,7 @@
 
 <hr>
 
-## GitHub Stats <img src="https://www.launchpads.com.au/assets/css/icons/animated/line-chart/animat-linechart-color.gif" height="40px">
+## GitHub Stats 📊
 
 ![Shibu M github stats](https://github-readme-stats.vercel.app/api?username=MohapatraShibu&theme=default&show_icons=true)
 
