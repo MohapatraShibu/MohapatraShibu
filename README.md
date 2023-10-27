@@ -40,13 +40,13 @@
 
 ## Get in Touch 🤝
 <a href="mailto:mohapatrashibu@gmail.com">
-    <img align="left" alt="Gmail" width="30px" src="https://github.com/MohapatraShibu/MohapatraShibu/assets/44550746/48d503fe-23d0-4ab4-a0fb-e110fc595f4f" />
+    <img align="left" alt="Gmail" width="30px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />
   </a>
 
 <a href="https://www.linkedin.com/in/shibu-mohapatra/">
-    <img align="left" alt="LinkedIn" width="60px" src="https://github.com/MohapatraShibu/MohapatraShibu/assets/44550746/eb6350ca-22b5-4f88-b862-e348bf6d69ef" />
+    <img align="left" alt="LinkedIn" width="40px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" />
   </a>
  
  <a href="https://www.kaggle.com/shibumohapatra">
-    <img align="left" alt="Kaggle" width="40px" src="https://github.com/MohapatraShibu/MohapatraShibu/assets/44550746/9ebd9397-df7b-43f8-9fa4-3b140d340da3" />
+    <img align="left" alt="Kaggle" width="40px" src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/png%20logo.png" />
   </a>
