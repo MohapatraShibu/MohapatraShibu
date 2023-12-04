@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/69073543/89121725-07178980-d4df-11ea-9fb5-597f3725e5c3.png" width="294" height="185">
 
-*Proficient in Artificial Intelligence, Bot Development and RPA with hands-on experience in Machine Learning, Deep Learning, MLOps, GIT, Automation Anywhere, API Testing, SoapUI and Oracle Fusion Applications (OFA). Domain expertise in Machine Learning, Deep Learning and RPA. I stand for quality and also strive for excellence and perfection which allows me to share the things I love and the places I discover.*
+*Strong proficiency in Artificial Intelligence, Bot Development and RPA with extensive hands-on experience in Machine Learning, Deep Learning, MLOps, GIT, Automation Anywhere, API Testing, SoapUI and Oracle Fusion Applications. Domain expertise in Machine Learning, Deep Learning and Robotic Process Automation. I stand for quality and also strive for excellence and perfection which allows me to share the things I love and the places I discover.*
 <hr>
 
 ## Tools and Technical Skills 🧰
