@@ -23,7 +23,6 @@
 
 ![Statistics](https://img.shields.io/badge/Skill-Statistics-informational?style=flat&logo=Numpy&logoColor=white&color=informational)
 ![VS Code](https://img.shields.io/badge/Software-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=informational)
-
 ![Jupyter](https://img.shields.io/badge/Software-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=informational)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=informational)
 
