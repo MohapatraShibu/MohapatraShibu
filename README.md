@@ -69,11 +69,13 @@
 ![API Testing](https://img.shields.io/badge/API_Testing-informational?style=flat&logo=postman&logoColor=white&color=informational)
 ![AutoML](https://img.shields.io/badge/Auto_ML-informational?style=flat&logo=streamlit&logoColor=white&color=informational)
 ![Autmation Anywhere](https://img.shields.io/badge/Automation_Anywhere-informational?style=flat&logo=AA&logoColor=white&color=informational)
+![Hadoop](https://img.shields.io/badge/Hadoop-informational?style=flat&logo=apache&logoColor=white&color=informational)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=informational)
 ![Jira](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=informational)
 ![Jupyter](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=informational)
 ![PyCaret](https://img.shields.io/badge/PyCaret-informational?style=flat&logo=pandas&logoColor=white&color=informational)
 ![SoapUI](https://img.shields.io/badge/SoapUI-informational?style=flat&logo=soapui&logoColor=white&color=informational)
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
 ![UiPath](https://img.shields.io/badge/UiPath-informational?style=flat&logo=uipath&logoColor=white&color=informational)
 ![VS Code](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=informational)
 <hr>
