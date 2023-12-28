@@ -45,6 +45,7 @@
 ![Clustering](https://img.shields.io/badge/Clustering-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
 ![Decision Trees](https://img.shields.io/badge/Decision_Trees-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
 ![Generative Adversarial Network](https://img.shields.io/badge/Generative_Adversarial_Network-informational?style=flat&logo=tensorFlow&logoColor=white&color=informational)
+![Large Language Model](https://img.shields.io/badge/Large_Language_Model-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![LSTM](https://img.shields.io/badge/LSTM-informational?style=flat&logo=keras&logoColor=white&color=informational)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-informational?style=flat&logo=tensorFlow&logoColor=white&color=informational)
 ![Regression](https://img.shields.io/badge/Regression-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
