@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/69073543/89121725-07178980-d4df-11ea-9fb5-597f3725e5c3.png" width="294" height="185">
 
-*Strong proficiency in Artificial Intelligence, Bot Development and RPA with extensive hands-on experience in Machine Learning, Deep Learning, MLOps, GIT, Automation Anywhere, API Testing, SoapUI and Oracle Fusion Applications. Domain expertise in Machine Learning, Deep Learning and Robotic Process Automation. I stand for quality and also strive for excellence and perfection which allows me to share the things I love and the places I discover.*
+*Domain expertise in Artificial Intelligence, Data Science, DevOps and RPA with a strong background experience in developing and deploying results-driven complex models for various industries. Proficient in Machine Learning, Deep Learning, Natural Language Processing, MLOps, GIT, Automation Anywhere, API Testing and Oracle Fusion, with an ability to deliver high-quality solutions. I stand for quality and also strive for excellence and perfection which allows me to share the things I love and the places I discover.*
 <hr>
 
 ## Tools and Technical Skills 🧰
@@ -21,22 +21,23 @@
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-informational?style=flat&logo=opencv&logoColor=white&color=informational)
 ![Data Science](https://img.shields.io/badge/Data_Science-informational?style=flat&logo=pandas&logoColor=white&color=informational)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-informational?style=flat&logo=keras&logoColor=white&color=informational)
+![Generative AI](https://img.shields.io/badge/Generative_AI-informational?style=flat&logo=openai&logoColor=white&color=informational)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=informational)
 ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-informational?style=flat&logo=scipy&logoColor=white&color=informational)
-![Robotic Process Automation](https://img.shields.io/badge/Robotic_Process_Automation-informational?style=flat&logo=AutomationAnywhere&logoColor=white&color=informational)
-![Statistics](https://img.shields.io/badge/Statistics-informational?style=flat&logo=Numpy&logoColor=white&color=informational)
+![Robotic Process Automation](https://img.shields.io/badge/Robotic_Process_Automation-informational?style=flat&logo=python&logoColor=white&color=informational)
 
 ![Libraries](https://img.shields.io/badge/Libraries-:-informational?style=flat&logoColor=white&color=informational)
 ![Keras](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=informational)
-![NLTK](https://img.shields.io/badge/NLTK-informational?style=flat&logo=nltk&logoColor=white&color=informational)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=python&logoColor=white&color=informational)
+![NLTK](https://img.shields.io/badge/NLTK-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![Numpy](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&logoColor=white&color=informational)
 ![OpenCV](https://img.shields.io/badge/OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=informational)
+![PySpark](https://img.shields.io/badge/PySpark-informational?style=flat&logo=apachespark&logoColor=white&color=informational)
 ![Pandas](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=informational)
 ![PyTorch](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=informational)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
 ![SciPy](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=informational)
-![Seaborn](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=informational)
+![Seaborn](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorFlow&logoColor=white&color=informational)
 
 ![Algorithms](https://img.shields.io/badge/Algorithms-:-informational?style=flat&logoColor=white&color=informational)
@@ -64,19 +65,21 @@
 ![MLFlow](https://img.shields.io/badge/MLFlow-informational?style=flat&logo=mlflow&logoColor=white&color=informational)
 ![MLOps](https://img.shields.io/badge/MLOps-informational?style=flat&logo=keras&logoColor=white&color=informational)
 ![StreamLit](https://img.shields.io/badge/StreamLit-informational?style=flat&logo=streamlit&logoColor=white&color=informational)
+![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=informational)
 
 ![Tools](https://img.shields.io/badge/Tools-:-informational?style=flat&logoColor=white&color=informational)
 ![API Testing](https://img.shields.io/badge/API_Testing-informational?style=flat&logo=postman&logoColor=white&color=informational)
 ![AutoML](https://img.shields.io/badge/Auto_ML-informational?style=flat&logo=streamlit&logoColor=white&color=informational)
-![Autmation Anywhere](https://img.shields.io/badge/Automation_Anywhere-informational?style=flat&logo=AA&logoColor=white&color=informational)
+![Autmation Anywhere](https://img.shields.io/badge/Automation_Anywhere-informational?style=flat&logo=dotnet&logoColor=white&color=informational)
 ![Hadoop](https://img.shields.io/badge/Hadoop-informational?style=flat&logo=apache&logoColor=white&color=informational)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=informational)
 ![Jira](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=informational)
 ![Jupyter](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=informational)
+![Langchain](https://img.shields.io/badge/Langchain-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![PyCaret](https://img.shields.io/badge/PyCaret-informational?style=flat&logo=pandas&logoColor=white&color=informational)
 ![SoapUI](https://img.shields.io/badge/SoapUI-informational?style=flat&logo=soapui&logoColor=white&color=informational)
 ![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
-![UiPath](https://img.shields.io/badge/UiPath-informational?style=flat&logo=uipath&logoColor=white&color=informational)
+![UiPath](https://img.shields.io/badge/UiPath-informational?style=flat&logo=visualbasic&logoColor=white&color=informational)
 ![VS Code](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=informational)
 <hr>
 
