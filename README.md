@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/69073543/89121725-07178980-d4df-11ea-9fb5-597f3725e5c3.png" width="294" height="185">
 
-*Domain expertise in Artificial Intelligence, Data Science, DevOps and RPA with a strong background experience in developing and deploying results-driven complex models for various industries. Proficient in Machine Learning, Deep Learning, Natural Language Processing, MLOps, GIT, Automation Anywhere, API Testing and Oracle Fusion, with an ability to deliver high-quality solutions. I stand for quality and also strive for excellence and perfection which allows me to share the things I love and the places I discover.*
+*With domain expertise in Artificial Intelligence, Data Science, RPA, GenAI, and DevOps, I leverage my skills and experience to develop and deploy advanced models across diverse industries. My proficiency in Machine Learning, Deep Learning, Natural Language Processing, MLOps, GIT, Data Analytics, and LLM enables me to deliver high-quality solutions to each business's unique needs. I stand for quality and also strive for excellence and perfection which allows me to share the things I love and the places I discover.*
 <hr>
 
 ## Tools and Technical Skills 🧰
@@ -16,6 +16,8 @@
 ![Databases](https://img.shields.io/badge/Databases-:-informational?style=flat&logoColor=white&color=informational)
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
 ![OracleSQL](https://img.shields.io/badge/OracleSQL-informational?style=flat&logo=oracle&logoColor=white&color=informational)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=informational)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-informational?style=flat&logo=chromadb&logoColor=white&color=informational)
 
 ![Technology](https://img.shields.io/badge/Technology-:-informational?style=flat&logoColor=white&color=informational)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-informational?style=flat&logo=opencv&logoColor=white&color=informational)
@@ -25,6 +27,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=informational)
 ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-informational?style=flat&logo=scipy&logoColor=white&color=informational)
 ![Robotic Process Automation](https://img.shields.io/badge/Robotic_Process_Automation-informational?style=flat&logo=python&logoColor=white&color=informational)
+![GPT-4](https://img.shields.io/badge/GPT4-informational?style=flat&logo=openai&logoColor=white&color=informational)
 
 ![Libraries](https://img.shields.io/badge/Libraries-:-informational?style=flat&logoColor=white&color=informational)
 ![Keras](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
@@ -50,13 +53,15 @@
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-informational?style=flat&logo=tensorFlow&logoColor=white&color=informational)
 ![Regression](https://img.shields.io/badge/Regression-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
 ![Support Vector Machines](https://img.shields.io/badge/Support_Vector_Machines-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
+![LLM](https://img.shields.io/badge/LLM-informational?style=flat&logo=openai&logoColor=white&color=informational)
 
 ![Cloud](https://img.shields.io/badge/Cloud-:-informational?style=flat&logoColor=white&color=informational)
 ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=white&color=informational) 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-informational?style=flat&logo=GoogleCloud&logoColor=white&color=informational) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=informational) 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=informational)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-informational?style=flat&logo=microsoft&logoColor=white&color=informational)
 ![Oracle Fusion Applications](https://img.shields.io/badge/Oracle_Fusion_Applications-informational?style=flat&logo=oracle&logoColor=white&color=informational)
+![Databricks](https://img.shields.io/badge/databrics-informational?style=flat&logo=databricks&logoColor=white&color=informational)
 
 ![DevOps](https://img.shields.io/badge/DevOps-:-informational?style=flat&logoColor=white&color=informational)
 ![CI/CD](https://img.shields.io/badge/CI/CD-informational?style=flat&logo=git&logoColor=white&color=informational)
@@ -67,6 +72,8 @@
 ![MLOps](https://img.shields.io/badge/MLOps-informational?style=flat&logo=keras&logoColor=white&color=informational)
 ![StreamLit](https://img.shields.io/badge/StreamLit-informational?style=flat&logo=streamlit&logoColor=white&color=informational)
 ![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=informational)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-informational?style=flat&logo=huggingface&logoColor=white&color=informational)
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=javascript&logoColor=white&color=informational)
 
 ![Tools](https://img.shields.io/badge/Tools-:-informational?style=flat&logoColor=white&color=informational)
 ![API Testing](https://img.shields.io/badge/API_Testing-informational?style=flat&logo=postman&logoColor=white&color=informational)
@@ -82,6 +89,11 @@
 ![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
 ![UiPath](https://img.shields.io/badge/UiPath-informational?style=flat&logo=visualbasic&logoColor=white&color=informational)
 ![VS Code](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=informational)
+![OpenAI](https://img.shields.io/badge/OpenAI-informational?style=flat&logo=openai&logoColor=white&color=informational)
+![Langchain](https://img.shields.io/badge/Langchain-informational?style=flat&logo=langchain&logoColor=white&color=informational)
+![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=informational)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=informational)
 <hr>
 
 ## GitHub Stats 📊
