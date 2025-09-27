@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/69073543/89121725-07178980-d4df-11ea-9fb5-597f3725e5c3.png" width="294" height="185">
 
-*With domain expertise in Artificial Intelligence, Data Science, RPA, GenAI, and DevOps, I leverage my skills and experience to develop and deploy advanced models across diverse industries. My proficiency in Machine Learning, Deep Learning, Natural Language Processing, MLOps, GIT, Data Analytics, and LLM enables me to deliver high-quality solutions to each business's unique needs. I stand for quality and also strive for excellence and perfection which allows me to share the things I love and the places I discover.*
+*I am an AI Engineer with experience in AI/ML, Deep Learning, NLP, and LLMs, with supporting expertise in data science, MLOps, RPA, and DevOps. Proven record in designing, developing, deploying, and scaling AI solutions across industries, while translating technical capabilities into actionable business insights and measurable operational efficiency. Skilled at collaborating with cross-functional teams to align AI initiatives with business strategy and objectives.*
 <hr>
 
 ## Tools and Technical Skills 🧰
