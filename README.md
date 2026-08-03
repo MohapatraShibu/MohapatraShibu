@@ -1,116 +1,61 @@
-# Shibu Mohapatra 👋
+# Hello, I'm Shibu! 👋
 
-<img src="https://user-images.githubusercontent.com/69073543/89121725-07178980-d4df-11ea-9fb5-597f3725e5c3.png" width="294" height="185">
+### AI Engineer | ML · LLMs ·Agentic AI · Backend 🚀
 
-*I am an AI Engineer with experience in AI/ML, Deep Learning, NLP, and LLMs, with supporting expertise in data science, MLOps, RPA, and DevOps. Proven record in designing, developing, deploying, and scaling AI solutions across industries, while translating technical capabilities into actionable business insights and measurable operational efficiency. Skilled at collaborating with cross-functional teams to align AI initiatives with business strategy and objectives.*
-<hr>
+<img src="https://user-images.githubusercontent.com/69073543/89121725-07178980-d4df-11ea-9fb5-597f3725e5c3.png" width="147" height="92.5">
 
-## Tools and Technical Skills 🧰
+I'm an AI Engineer with **2+ years of experience** building and deploying production-grade AI applications. I specialize in LLM-based systems, RAG pipelines, Agentic AI workflows, and scalable backend infrastructure — taking solutions from development all the way to production.
 
-<img src="https://user-images.githubusercontent.com/69073543/89121983-421abc80-d4e1-11ea-95f5-04d9589e0c24.png" width="245" height="200">
+---
 
-![Programming Languages](https://img.shields.io/badge/Languages-:-informational?style=flat&logoColor=white&color=informational)
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=informational) 
-![R](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=informational) 
+### 💡 Professional Impact
 
-![Databases](https://img.shields.io/badge/Databases-:-informational?style=flat&logoColor=white&color=informational)
-![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
-![OracleSQL](https://img.shields.io/badge/OracleSQL-informational?style=flat&logo=oracle&logoColor=white&color=informational)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=informational)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-informational?style=flat&logo=chromadb&logoColor=white&color=informational)
+<img src="https://user-images.githubusercontent.com/69073543/89121983-421abc80-d4e1-11ea-95f5-04d9589e0c24.png" width="122.5" height="100">
 
-![Technology](https://img.shields.io/badge/Technology-:-informational?style=flat&logoColor=white&color=informational)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-informational?style=flat&logo=opencv&logoColor=white&color=informational)
-![Data Science](https://img.shields.io/badge/Data_Science-informational?style=flat&logo=pandas&logoColor=white&color=informational)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-informational?style=flat&logo=keras&logoColor=white&color=informational)
-![Generative AI](https://img.shields.io/badge/Generative_AI-informational?style=flat&logo=openai&logoColor=white&color=informational)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=informational)
-![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-informational?style=flat&logo=scipy&logoColor=white&color=informational)
-![Robotic Process Automation](https://img.shields.io/badge/Robotic_Process_Automation-informational?style=flat&logo=python&logoColor=white&color=informational)
-![GPT-4](https://img.shields.io/badge/GPT4-informational?style=flat&logo=openai&logoColor=white&color=informational)
+* **Gloify:** Owned end-to-end development of an LLM-based retail chatbot for **Riyaah** — integrating RAG pipelines, real-time streaming, Algolia search, and prompt engineering.
+* **Scale:** Contributed to **Agastya**, an Agentic AI astrology assistant for AstroSure.ai serving **350K+ MAUs** within a 1M+ user base.
+* **Backend:** Built scalable AI backend infrastructure using MongoDB, AWS S3, Redis, Celery, and RabbitMQ; load-tested with Locust for high-traffic reliability.
+* **Guidewire Software:** Automated BI Finance reporting with Python + RPA bots, saving **4+ hours** of manual effort per report cycle.
+* **Skills Agency:** Built an LLM-powered natural language SQL chatbot using LangChain, enabling non-technical teams to query databases without writing SQL.
 
-![Libraries](https://img.shields.io/badge/Libraries-:-informational?style=flat&logoColor=white&color=informational)
-![Keras](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=python&logoColor=white&color=informational)
-![NLTK](https://img.shields.io/badge/NLTK-informational?style=flat&logo=python&logoColor=white&color=informational)
-![Numpy](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&logoColor=white&color=informational)
-![OpenCV](https://img.shields.io/badge/OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=informational)
-![PySpark](https://img.shields.io/badge/PySpark-informational?style=flat&logo=apachespark&logoColor=white&color=informational)
-![Pandas](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=informational)
-![PyTorch](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=informational)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
-![SciPy](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=informational)
-![Seaborn](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=python&logoColor=white&color=informational)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorFlow&logoColor=white&color=informational)
+---
 
-![Algorithms](https://img.shields.io/badge/Algorithms-:-informational?style=flat&logoColor=white&color=informational)
-![Autoencoders](https://img.shields.io/badge/Autoencoders-informational?style=flat&logo=keras&logoColor=white&color=informational)
-![Clustering](https://img.shields.io/badge/Clustering-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
-![Decision Trees](https://img.shields.io/badge/Decision_Trees-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
-![Generative Adversarial Network](https://img.shields.io/badge/Generative_Adversarial_Network-informational?style=flat&logo=tensorFlow&logoColor=white&color=informational)
-![Large Language Model](https://img.shields.io/badge/Large_Language_Model-informational?style=flat&logo=python&logoColor=white&color=informational)
-![LSTM](https://img.shields.io/badge/LSTM-informational?style=flat&logo=keras&logoColor=white&color=informational)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-informational?style=flat&logo=tensorFlow&logoColor=white&color=informational)
-![Regression](https://img.shields.io/badge/Regression-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
-![Support Vector Machines](https://img.shields.io/badge/Support_Vector_Machines-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
-![LLM](https://img.shields.io/badge/LLM-informational?style=flat&logo=openai&logoColor=white&color=informational)
+### 🛠 Tech Stack
 
-![Cloud](https://img.shields.io/badge/Cloud-:-informational?style=flat&logoColor=white&color=informational)
-![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=white&color=informational) 
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-informational?style=flat&logo=GoogleCloud&logoColor=white&color=informational) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=informational) 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-informational?style=flat&logo=microsoft&logoColor=white&color=informational)
-![Oracle Fusion Applications](https://img.shields.io/badge/Oracle_Fusion_Applications-informational?style=flat&logo=oracle&logoColor=white&color=informational)
-![Databricks](https://img.shields.io/badge/databrics-informational?style=flat&logo=databricks&logoColor=white&color=informational)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, R, JavaScript |
+| **AI & ML** | LLMs, RAG, Agentic AI, NLP, Computer Vision, Deep Learning, Prompt Engineering, OpenAI/GPT, Hugging Face, Ollama |
+| **Libraries** | PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, OpenCV, NLTK, Matplotlib |
+| **Backend** | Django, FastAPI, Flask, Node.js, Celery, Redis, Pydantic, Microservices |
+| **Databases** | MongoDB, MySQL, ChromaDB |
+| **DevOps & Cloud** | Docker, Kubernetes, AWS, Azure, MLOps, CI/CD, Jenkins, Git, Jira |
+| **Automation** | UiPath, Automation Anywhere, n8n, Antigravity, Claude |
+| **Tools** | LangChain, Streamlit, Algolia, Logfire, Locust, Postman, RabbitMQ, SoapUI, Linux |
 
-![DevOps](https://img.shields.io/badge/DevOps-:-informational?style=flat&logoColor=white&color=informational)
-![CI/CD](https://img.shields.io/badge/CI/CD-informational?style=flat&logo=git&logoColor=white&color=informational)
-![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=informational)
-![Flask](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=informational)
-![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=informational)
-![MLFlow](https://img.shields.io/badge/MLFlow-informational?style=flat&logo=mlflow&logoColor=white&color=informational)
-![MLOps](https://img.shields.io/badge/MLOps-informational?style=flat&logo=keras&logoColor=white&color=informational)
-![StreamLit](https://img.shields.io/badge/StreamLit-informational?style=flat&logo=streamlit&logoColor=white&color=informational)
-![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=informational)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-informational?style=flat&logo=huggingface&logoColor=white&color=informational)
-![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=javascript&logoColor=white&color=informational)
+---
 
-![Tools](https://img.shields.io/badge/Tools-:-informational?style=flat&logoColor=white&color=informational)
-![API Testing](https://img.shields.io/badge/API_Testing-informational?style=flat&logo=postman&logoColor=white&color=informational)
-![AutoML](https://img.shields.io/badge/Auto_ML-informational?style=flat&logo=streamlit&logoColor=white&color=informational)
-![Autmation Anywhere](https://img.shields.io/badge/Automation_Anywhere-informational?style=flat&logo=dotnet&logoColor=white&color=informational)
-![Hadoop](https://img.shields.io/badge/Hadoop-informational?style=flat&logo=apache&logoColor=white&color=informational)
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=informational)
-![Jira](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=informational)
-![Jupyter](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=informational)
-![Langchain](https://img.shields.io/badge/Langchain-informational?style=flat&logo=python&logoColor=white&color=informational)
-![PyCaret](https://img.shields.io/badge/PyCaret-informational?style=flat&logo=pandas&logoColor=white&color=informational)
-![SoapUI](https://img.shields.io/badge/SoapUI-informational?style=flat&logo=soapui&logoColor=white&color=informational)
-![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-informational?style=flat&logo=scikitlearn&logoColor=white&color=informational)
-![UiPath](https://img.shields.io/badge/UiPath-informational?style=flat&logo=visualbasic&logoColor=white&color=informational)
-![VS Code](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=informational)
-![OpenAI](https://img.shields.io/badge/OpenAI-informational?style=flat&logo=openai&logoColor=white&color=informational)
-![Langchain](https://img.shields.io/badge/Langchain-informational?style=flat&logo=langchain&logoColor=white&color=informational)
-![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=informational)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=informational)
-<hr>
+### 🏆 Achievements & Recognition
 
-## GitHub Stats 📊
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohapatraShibu&label=Profile%20views&color=0e75b6&style=flat" alt="MohapatraShibu"/> </p>
+- **Kaggle:** Top 10% ranking · Datasets Expert · Multiple competition medals
+- **DataHack:** CTR Prediction (74% accuracy) · Vahan Bima Insurance (89% accuracy)
+- **Certifications:** Deep Learning Specialization · AWS Fundamentals · Azure AI · UiPath RPA · Automation Anywhere
 
-![Shibu M github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MohapatraShibu&layout=donut)
-<hr>
+---
 
-## Get in Touch 🤝
-<a href="mailto:mohapatrashibu@gmail.com">
-    <img align="left" alt="Gmail" width="30px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />
-  </a>
+### 📊 GitHub Stats
 
-<a href="https://www.linkedin.com/in/shibu-mohapatra/">
-    <img align="left" alt="LinkedIn" width="40px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" />
-  </a>
- 
- <a href="https://www.kaggle.com/shibumohapatra">
-    <img align="left" alt="Kaggle" width="40px" src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/png%20logo.png" />
-  </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MohapatraShibu&label=Profile%20views&color=0e75b6&style=flat" alt="MohapatraShibu" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibu-mohapatra)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohapatrashibu@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/shibumohapatra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://MohapatraShibu.github.io/portfolio)
+
+> *"The best AI systems don't just process data — they understand context, adapt to uncertainty, and deliver real-world impact."*
