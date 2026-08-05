@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/69073543/89121725-07178980-d4df-11ea-9fb5-597f3725e5c3.png" width="147" height="92.5">
 
-I'm an AI Engineer with **2+ years of experience** building and deploying production-grade AI applications. I specialize in LLM-based systems, RAG pipelines, Agentic AI workflows, and scalable backend infrastructure — taking solutions from development all the way to production.
+I'm an AI Engineer with **2.5+ years of experience** building and deploying production-grade AI applications. I specialize in LLM-based systems, RAG pipelines, Agentic AI workflows, and scalable backend infrastructure — taking solutions from development all the way to production.
 
 ---
 
@@ -31,15 +31,15 @@ I'm an AI Engineer with **2+ years of experience** building and deploying produc
 | **Databases** | MongoDB, MySQL, ChromaDB |
 | **DevOps & Cloud** | Docker, Kubernetes, AWS, Azure, MLOps, CI/CD, Jenkins, Git, Jira |
 | **Automation** | UiPath, Automation Anywhere, n8n, Antigravity, Claude |
-| **Tools** | LangChain, Streamlit, Algolia, Logfire, Locust, Postman, RabbitMQ, SoapUI, Linux |
+| **Tools** | LangChain, Streamlit, Algolia, Logfire, Locust, Postman, RabbitMQ, SoapUI, Linux, SQLAlchemy |
 
 ---
 
 ### 🏆 Achievements & Recognition
 
 - **Kaggle:** Top 10% ranking · Datasets Expert · Multiple competition medals
-- **DataHack:** CTR Prediction (74% accuracy) · Vahan Bima Insurance (89% accuracy)
-- **Certifications:** Deep Learning Specialization · AWS Fundamentals · Azure AI · UiPath RPA · Automation Anywhere
+- **DataHack:** CTR Prediction (74% accuracy) · Forecast Hourly Energy Demand (RMSE) · Vahan Bima Insurance (89% accuracy)
+- **Certifications:** Deep Learning Specialization · AWS Fundamentals · MongoDB · Azure AI · UiPath RPA · Automation Anywhere
 
 ---
 
