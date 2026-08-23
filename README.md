@@ -13,7 +13,7 @@ I'm an AI Engineer with **2.5+ years of experience** building and deploying prod
 <img src="https://user-images.githubusercontent.com/69073543/89121983-421abc80-d4e1-11ea-95f5-04d9589e0c24.png" width="122.5" height="100">
 
 * **Gloify:** Owned end-to-end development of an LLM-based retail chatbot for **Riyaah** — integrating RAG pipelines, real-time streaming, Algolia search, and prompt engineering.
-* **Scale:** Contributed to **Agastya**, an Agentic AI astrology assistant for AstroSure.ai serving **350K+ MAUs** within a 1M+ user base.
+* **Scale:** Contributed to **Agastyaa**, an Agentic AI astrology assistant for AstroSure.ai serving **350K+ MAUs** within a 1M+ user base.
 * **Backend:** Built scalable AI backend infrastructure using MongoDB, AWS S3, Redis, Celery, and RabbitMQ; load-tested with Locust for high-traffic reliability.
 * **Guidewire Software:** Automated BI Finance reporting with Python + RPA bots, saving **4+ hours** of manual effort per report cycle.
 * **Skills Agency:** Built an LLM-powered natural language SQL chatbot using LangChain, enabling non-technical teams to query databases without writing SQL.
